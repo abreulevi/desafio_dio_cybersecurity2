@@ -1,5 +1,4 @@
-# desafio_dio_cybersecurity2
-Análise Educacional de Ameaças: Ransomware e Keylogger
+# Análise Educacional de Ameaças: Ransomware e Keylogger
 
 > ⚠️ **Aviso Legal:** Este repositório tem fins estritamente acadêmicos e educacionais. As análises e documentações aqui presentes visam o estudo de mecanismos de defesa e a compreensão tática de malwares para fortalecer a segurança da informação.
 
